@@ -160,11 +160,11 @@ export default function Hero() {
             </p>{" "}
             <div className="mb-4 flex items-center justify-center gap-3">
               {" "}
-              <Image
+              {/* <Image
                 src="../../public/music/Gemini_Generated_Image_tcdmq6tcdmq6tcdm.png"
                 alt="Wedding"
                 className="rounded-full  w-100"
-              />{" "}
+              /> */}
               <h1 className="font-serif text-5xl font-light tracking-[0.08em] text-ivory sm:text-7xl md:text-9xl">
                 {" "}
                 {weddingData.groom}{" "}
