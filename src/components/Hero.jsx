@@ -160,7 +160,7 @@ export default function Hero() {
             </p>{" "}
             <div className="mb-4 flex items-center justify-center gap-3">
               {" "}
-              <img
+              <Image
                 src="../../public/music/Gemini_Generated_Image_tcdmq6tcdmq6tcdm.png"
                 alt="Wedding"
                 className="rounded-full  w-100"
