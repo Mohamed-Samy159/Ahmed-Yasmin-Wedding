@@ -92,7 +92,7 @@ export default function Hero() {
                 {" "}
                 <Heart size={55} strokeWidth={1} fill="currentColor" />{" "}
               </motion.div>{" "}
-              <p className="mb-3 text-[10px] uppercase tracking-[0.5em] text-gold/80">
+              <p className="mb-3 text-[10px] uppercase  text-gold/80">
                 {" "}
                 A Celebration of Love{" "}
               </p>{" "}
